@@ -1,1 +1,0 @@
-{"mappings":"AAAA,KAAK,CAAC,GAAG,GAAG,QAAQ,CAAC,cAAc,CAAC,CAAK;AAEzC,GAAG,CAAC,SAAS,GAAG,CAAmC","sources":["src/index.js"],"sourcesContent":["const app = document.getElementById('app')\n\napp.innerHTML = \"<h1>Hola Mundo, ¿Como estas?</h1>\""],"names":[],"version":3,"file":"index.579125c3.js.map","sourceRoot":"/__parcel_source_root/"}
